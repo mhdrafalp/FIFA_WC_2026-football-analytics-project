@@ -120,7 +120,7 @@ Used for:
 
 ## 🔄 Project Workflow
 
-```text
+
 Raw FIFA World Cup 2026 Dataset
               ↓
        Data Cleaning
