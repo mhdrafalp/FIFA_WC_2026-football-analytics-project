@@ -142,3 +142,5 @@ Raw FIFA World Cup 2026 Dataset
     Football Intelligence
               ↓
       Scouting Insights
+
+Tableau Dashboard: The packaged Tableau workbook (.twbx) is available separately due to GitHub's web upload file-size limitation.
