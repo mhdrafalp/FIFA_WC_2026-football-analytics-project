@@ -1,8 +1,8 @@
-BEYOND 90 — FIFA WORLD CUP 2026 FOOTBALL INTELLIGENCE
+**BEYOND 90 — FIFA WORLD CUP 2026 FOOTBALL INTELLIGENCE**
 
 An interactive football analytics and scouting intelligence project built around FIFA World Cup 2026 player-performance data.
 
-PROJECT OVERVIEW
+**PROJECT OVERVIEW**
 
 BEYOND 90 transforms FIFA World Cup 2026 player-performance data into meaningful football and scouting insights.
 
@@ -11,7 +11,7 @@ The project evaluates players across different positions, analyzes performance a
 The goal is to demonstrate how raw football data can be transformed into practical analytical insights that can support player comparison and scouting decisions.
 
 
-OBJECTIVES
+**OBJECTIVES**
 
 • Analyze FIFA World Cup 2026 player performance
 • Compare players across different positions
@@ -24,7 +24,7 @@ OBJECTIVES
 • Present football data through clear visualizations
 
 
-DATASET
+**DATASET**
 
 The project uses player-level FIFA World Cup 2026 performance data containing more than 1,200 player records.
 
@@ -61,7 +61,7 @@ Performance
 • Position-specific performance indicators
 
 
-TECHNOLOGIES
+**TECHNOLOGIES**
 
 Python
 Used for data loading, cleaning, preprocessing, missing-value handling and feature preparation.
@@ -77,7 +77,7 @@ Libraries
 • NumPy
 
 
-PROJECT WORKFLOW
+**PROJECT WORKFLOW**
 
 Raw FIFA World Cup 2026 Dataset
         ↓
@@ -102,7 +102,7 @@ Football Intelligence
 Scouting Insights
 
 
-DASHBOARD PREVIEW
+**DASHBOARD PREVIEW**
 
 The BEYOND 90 Tableau dashboards provide an interactive view of player performance, position-based statistics, efficiency and scouting insights.
 
@@ -119,7 +119,7 @@ Player Intelligence
 [ADD SCREENSHOT HERE]
 
 
-POSITION-BASED ANALYSIS
+**POSITION-BASED ANALYSI**S
 
 Goalkeepers
 
@@ -160,7 +160,7 @@ Forwards
 • Player rating
 
 
-KEY ANALYSES
+**KEY ANALYSES**
 
 Player Performance Analysis
 
@@ -198,7 +198,7 @@ Individual player dashboards allow users to explore:
 • Comparison with tournament-level statistics
 
 
-KEY QUESTIONS
+**KEY QUESTIONS**
 
 The project explores questions such as:
 
@@ -212,7 +212,7 @@ The project explores questions such as:
 • Which metrics are most useful for evaluating different positions?
 
 
-KEY INSIGHTS
+**KEY INSIGHTS**
 
 The project demonstrates how football performance data can be transformed into scouting-oriented insights.
 
@@ -229,7 +229,7 @@ The analysis considers more than traditional statistics such as goals and assist
 Specific numerical findings from the final dashboards will be documented here.
 
 
-LIMITATIONS
+**LIMITATIONS**
 
 • The analysis is primarily based on FIFA World Cup 2026 tournament statistics.
 • Some players have limited playing time, which can affect efficiency comparisons.
@@ -240,7 +240,7 @@ LIMITATIONS
 • The Hidden Gems classification is an analytical approach developed for this project and is not an official scouting evaluation.
 
 
-FUTURE IMPROVEMENTS
+**FUTURE IMPROVEMENTS**
 
 • Historical tournament comparison
 • Club-level performance integration
@@ -252,7 +252,7 @@ FUTURE IMPROVEMENTS
 • Automated scouting recommendations
 
 
-PROJECT STRUCTURE
+**PROJECT STRUCTURE**
 
 football-analytics-project/
 
@@ -264,7 +264,7 @@ football-analytics-project/
     screenshots/
 
 
-TABLEAU WORKBOOK
+**TABLEAU WORKBOOK**
 
 The packaged Tableau workbook (.twbx) is approximately 57 MB and is therefore not included in the GitHub web upload.
 
@@ -273,14 +273,14 @@ The working Tableau workbook is retained locally.
 Dashboard screenshots are included in the repository so that the visualizations can be viewed directly on GitHub.
 
 
-PROJECT STATUS
+**PROJECT STATUS**
 
 COMPLETED — PORTFOLIO VERSION
 
 BEYOND 90 currently provides FIFA World Cup 2026 player-performance analysis, position-based dashboards, player intelligence, efficiency analysis and hidden-gem identification using Python, SQL and Tableau.
 
 
-AUTHOR
+**AUTHOR**
 
 Muhammad Rafal P
 B.Tech Computer Science
