@@ -46,21 +46,13 @@ Raw FIFA World Cup 2026 Dataset ↓ Data Cleaning ↓ Data Preprocessing ↓ Fea
 
 The BEYOND 90 Tableau dashboards provide an interactive view of player performance, position-based statistics, efficiency and scouting insights.
 
-Main Dashboard
+Main Dashboard - ![BEYOND 90 Main Dashboard](Main_Dashboard.png)
 
-![BEYOND 90 Main Dashboard](screenshots/Main_Dashboard.png)
+Hidden Gems Dashboard - ![Hidden Gems Dashboard](Hiddengems.png)
 
-Hidden Gems Dashboard
+Position Dashboard 1 - ![Position-Based Statistics Dashboard 1](Player_Dashboard_1.png)
 
-![Hidden Gems Dashboard](screenshots/Hiddengems.png)
-
-Position-Based Statistics — Dashboard 1
-
-![Position-Based Statistics Dashboard 1](screenshots/Player_Dashboard_1.png)
-
-Position-Based Statistics — Dashboard 2
-
-![Position-Based Statistics Dashboard 2](screenshots/Player_Dashboard_2.png)
+Position Dashboard 2 - ![Position-Based Statistics Dashboard 2](Player_Dashboard_2.png)
 
 **POSITION-BASED ANALYSIS**
 
